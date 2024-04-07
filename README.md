@@ -10,3 +10,5 @@ Let me know if I can improve this user manual.
 - [Git Tutorial](https://www.atlassian.com/git/tutorials)
 - [Git Branching](https://learngitbranching.js.org/)
 - [Git Book](https://git-scm.com/book/en/v2)
+- [Git Pro](https://git-scm.com/book/en/v2)
+- [Git Immersion](http://gitimmersion.com/)
