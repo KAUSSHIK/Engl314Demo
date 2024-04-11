@@ -14,3 +14,4 @@ Let me know if I can improve this user manual.
 - [Git Pro](https://git-scm.com/book/en/v2)
 - [Git Immersion](http://gitimmersion.com/)
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+- [Git Ready](http://gitready.com/)
