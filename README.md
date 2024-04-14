@@ -16,3 +16,4 @@ Let me know if I can improve this user manual.
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 - [Git Ready](http://gitready.com/)
 - [Git Real](https://www.codeschool.com/courses/git-real)
+- [Git for Ages 4 and Up](http://blip.tv/eniparadoxgma/git-for-ages-4-and-up-5333641)
